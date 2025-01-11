@@ -78,4 +78,4 @@ How to Play
 
 1. Clone the repository:
 
-> https://github.com/Abbas786-Ali/Snake-game-/new/main?filename=README.md
+> (https://github.com/Abbas786-Ali/Snake-game-/blob/main/game%20code)
